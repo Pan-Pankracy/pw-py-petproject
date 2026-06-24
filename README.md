@@ -1,4 +1,5 @@
 # SauceDemo Micro-Frontend Test Automation Suite
+![CI](https://github.com/Pan-Pankracy/pw-py-petproject/actions/workflows/python-tests.yml/badge.svg)
 
 A professional, standalone test automation framework custom-engineered in Python to validate security gates, authentication handshakes, and user interface state continuity on the SauceDemo e-commerce platform.
 
